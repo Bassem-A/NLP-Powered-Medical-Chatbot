@@ -24,8 +24,8 @@ python -m streamlit run ./main.py
 ## OPTIONS
 
 ```python
-#You can add you api keys to the .env file
-#You can also uncomment some options to use HuggingFace embeddings and llm
+You can add you api keys to the .env file
+You can also uncomment some options to use HuggingFace embeddings and llm
 ```
 
 ## Credit
