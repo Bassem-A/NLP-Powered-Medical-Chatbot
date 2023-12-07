@@ -8,7 +8,7 @@ Downlod the files and install the dependencies.
 
 ```bash
 #Download the files
-git clone [url]
+git clone https://github.com/Bassem-A/NLP-Powered-Medical-Chatbot.git
 #Install dependencies
 pip install -r requirements.txt
 ```
