@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ```python
 #To run the app run this command in the terminal
-python ./main.py
+streamlit ./main.py
 #Then navigate to the url shown in the terminal
 ```
 
