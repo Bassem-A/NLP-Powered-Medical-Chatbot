@@ -21,7 +21,12 @@ python -m streamlit run ./main.py
 #Then navigate to the url shown in the terminal
 #Ask questions and you will get answers
 ```
+## OPTIONS
 
+```python
+#You can add you api keys to the .env file
+#You can also uncomment some options to use HuggingFace embeddings and llm
+```
 
 ## Credit
 Bassem Alshehri
