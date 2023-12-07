@@ -2,6 +2,9 @@
 
 This application uses LangChain with OpenAI to make a working bot that is trained on medical data from trusted books.
 
+![alt text](https://raw.githubusercontent.com/Bassem-A/NLP-Powered-Medical-Chatbot/main/Streamlit.PNG)
+
+
 ## Installation
 
 Downlod the files and install the dependencies.
